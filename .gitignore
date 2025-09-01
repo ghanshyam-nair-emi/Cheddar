@@ -1,3 +1,4 @@
 cheddarai/environement/.env
 cheddarai/node_modules/
 cheddarai/package-lock.json
+cheddarai/dist/
